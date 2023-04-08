@@ -87,4 +87,4 @@ export const NavbarLogin: React.FC = () => {
   1. [Y Stem and Chess Mobile Application](https://github.com/TritonSE/YSC-Mobile-Application)
        * Mobile Application that allows students of the client organization to play chess with each other. 
 
-To get back where you came from (ReadMe file) [click here](README.md)
+To the source file you came from (ReadMe file) [click here](README.md)
