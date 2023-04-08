@@ -62,7 +62,6 @@ Pursuing a B.S. in Mathematics-Computer Science
 ```
 import { NavLink, useNavigate } from "react-router-dom";
 import "./Navbar.css";
-
 export const NavbarLogin: React.FC = () => {
   const navigate = useNavigate();
   return (
