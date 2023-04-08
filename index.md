@@ -59,30 +59,30 @@ Pursuing a B.S. in Mathematics-Computer Science
       
        * Data Visualization Website of the data that the client wants to provide to their customers
        * Section of Code I wrote: ([Original File](https://github.com/TritonSE/SDCTA-Data-Visualization-Website/blob/main/SDCTA/src/components/Navbar/NavbarLogin.tsx))
-        ```
-        import { NavLink, useNavigate } from "react-router-dom";
-        import "./Navbar.css";
+```
+import { NavLink, useNavigate } from "react-router-dom";
+import "./Navbar.css";
 
-        export const NavbarLogin: React.FC = () => {
-          const navigate = useNavigate();
-          return (
-            <div>
-              <NavLink to="/Login" className="links" id="login">
-                Login
-              </NavLink>
-              <button
-                className="navbar-button"
-                id="sign-up"
-                onClick={() => {
-                  navigate("/Signup");
-                }}
-              >
-                Sign Up
-              </button>
-            </div>
-          );
-        };
-        ```
+export const NavbarLogin: React.FC = () => {
+  const navigate = useNavigate();
+  return (
+    <div>
+      <NavLink to="/Login" className="links" id="login">
+        Login
+      </NavLink>
+      <button
+        className="navbar-button"
+        id="sign-up"
+        onClick={() => {
+          navigate("/Signup");
+        }}
+      >
+        Sign Up
+      </button>
+    </div>
+  );
+};
+```
   2. [Y Stem and Chess Mobile Application](https://github.com/TritonSE/YSC-Mobile-Application)
        * Mobile Application that allows students of the client organization to play chess with each other. 
 
