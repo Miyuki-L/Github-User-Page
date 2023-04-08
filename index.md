@@ -28,8 +28,8 @@ Somethings that I have baked before are (~~Images not from the internet~~)
   ![Picture of Bread](indexPageImages/Matcha%20Bread.jpg)
 * [***Cinnamon Rolls***](https://www.youtube.com/watch?v=HjOqNLDf-Cg)
   ![Picture of Cinnamon Rolls](indexPageImages/Cinnamon%20Roll.jpg)
-* Sweet Rice Cakes
-  ![***Picture of Rice Cakes***](indexPageImages/Rice%20Cake.jpg)
+* ***Sweet Rice Cakes***
+  ![Picture of Rice Cakes](indexPageImages/Rice%20Cake.jpg)
 
 
 
@@ -58,7 +58,7 @@ Pursuing a B.S. in Mathematics-Computer Science
   1. [San Diego Taxpayers Association Visualization Website](https://github.com/TritonSE/SDCTA-Data-Visualization-Website)
       
        * Data Visualization Website of the data that the client wants to provide to their customers
-       * Section of Code I wrote: ([Original File](https://github.com/TritonSE/SDCTA-Data-Visualization-Website/blob/main/SDCTA/src/components/Navbar/NavbarLogin.tsx))
+       * Section of Code I wrote: <sup> ([Original File](https://github.com/TritonSE/SDCTA-Data-Visualization-Website/blob/main/SDCTA/src/components/Navbar/NavbarLogin.tsx)) </sup>
 
 ```
 import { NavLink, useNavigate } from "react-router-dom";
