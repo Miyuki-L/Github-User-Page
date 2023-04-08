@@ -15,21 +15,21 @@
 
 ## About Me As A Person
 ### Background
-Hello! I am **Helen Lin**. I am a student at UCSD studying Mathematics-Computer Science. I am from Irvine, California <sub>but also South Africa</sub>
+Hello! I am **Helen Lin**. I am a student at UCSD studying *Mathematics-Computer Science*. I am from Irvine, California <sub>and also South Africa</sub>
 
 ### Favorite Quote
-> Don't say you can't until you prove you can't -Les Paul
+> **_Don't say you can't until you prove you can't_ -Les Paul**
 
 ### Hobbies
 In my free time, I like to cook and bake and do ocasional arts and crafts. 
 
 Somethings that I have baked before are (~~Images not from the internet~~)
-* [Matcha Red Bean Bread](https://youtu.be/hKtKUd1-6b0)
+* [***Matcha Red Bean Bread***](https://youtu.be/hKtKUd1-6b0)
   ![Picture of Bread](indexPageImages/Matcha%20Bread.jpg)
-* [Cinnamon Rolls](https://www.youtube.com/watch?v=HjOqNLDf-Cg)
+* [***Cinnamon Rolls***](https://www.youtube.com/watch?v=HjOqNLDf-Cg)
   ![Picture of Cinnamon Rolls](indexPageImages/Cinnamon%20Roll.jpg)
 * Sweet Rice Cakes
-  ![Picture of Rice Cakes](indexPageImages/Rice%20Cake.jpg)
+  ![***Picture of Rice Cakes***](indexPageImages/Rice%20Cake.jpg)
 
 
 
